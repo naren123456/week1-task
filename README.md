@@ -19,9 +19,9 @@ Steps to exceute the file "week1-task.py"
 
 	i) Go to the url "http://127.0.0.1:5000/home" and enter your name and age in the form 
 	
-	ii)If you click the submit button, then the cookies will be set after you and you will land at this page 		"http://127.0.0.1:5000/home"
+	ii)If you click the submit button, then the cookies will be set after you and you will land at this page 		("http://127.0.0.1:5000/setcookie")
 	
- 	iii) From the set cookies page("http://127.0.0.1:5000/setcookie"), there is a link to get cookies("http://127.0.0.1:5000/getcookie") page  where you can view the cookies you have set.
+ 	iii) From the set cookies page, there is a link to get cookies("http://127.0.0.1:5000/getcookie") page  where you can view the cookies you have set.
 
 	iv) If you try to set the cookies again, it will display a message that it has already been set.
 
