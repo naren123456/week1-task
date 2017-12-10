@@ -4,7 +4,9 @@ Software requirements:
 Python - 2.7.x 
 
 Modules - requests,json,os and sys
+
 Flask package modules - render_template,make_response, request and send_from_directory
+
 Other modules - Rule(imported using werkzeug package)
 
 
