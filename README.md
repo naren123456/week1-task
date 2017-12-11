@@ -15,9 +15,13 @@ Other modules - Rule(imported using werkzeug package)
 Installation procedure:
 
 1.Download python from https://www.python.org/downloads/ and install.
+
 2.For installing flask, read this documentation http://flask.pocoo.org/docs/0.12/installation/
+
 3.For installing other required modules
+
 	i)First check whether there are two environment variables declared, one for folder location where Python is installed and the other for the Scripts folder inside that Python folder( eg. C:\Python27 and C:\Python27\Scripts\ )
+	
 	ii)Then install the requried  modules by using the command "pip install module_name" in the command prompt
 	
 
