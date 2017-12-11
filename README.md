@@ -48,5 +48,6 @@ Steps to exceute the file "week1-task.py"
 
 	ii) Thus after clicking the submit button, you will see the data entered being printed at the terminal or idle output window.
 
-	
+To stop the code execution - Press CTRL+C
+
 For any clarfication regarding code and it's execution, you can contact me at "narendren.s97@gmail.com"	
