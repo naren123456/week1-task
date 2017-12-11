@@ -1,5 +1,7 @@
 # WEEK1-task by NARENDREN S
 
+BACKEND ALLOTED - PYTHON FLASK 
+
 Software requirements:
 Python - 2.7.x 
 
