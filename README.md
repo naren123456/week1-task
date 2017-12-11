@@ -4,6 +4,7 @@ BACKEND ALLOTED - PYTHON FLASK
 
 Software requirements:
 Python - 2.7.x 
+(Note: This documentation is for excecuting the code in Windows OS)
 
 Modules - requests,json,os and sys
 
@@ -11,6 +12,14 @@ Flask package modules - render_template,make_response, request and send_from_dir
 
 Other modules - Rule(imported using werkzeug package)
 
+Installation procedure:
+
+1.Download python from https://www.python.org/downloads/ and install.
+2.For installing flask, read this documentation http://flask.pocoo.org/docs/0.12/installation/
+3.For installing other required modules
+	i)First check whether there are two environment variables declared, one for folder location where Python is installed and the other for the Scripts folder inside that Python folder( eg. C:\Python27 and C:\Python27\Scripts\ )
+	ii)Then install the requried  modules by using the command "pip install module_name" in the command prompt
+	
 
 Steps to exceute the file "week1-task.py"
 1. First run the python code via terminal or through python idle
